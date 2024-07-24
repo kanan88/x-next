@@ -22,7 +22,7 @@ const Input = () => {
           placeholder="whats happening"
           rows="2"
         ></textarea>
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between pt-2.5">
           <HiOutlinePhotograph className="h-10 w-10 p-2 text-sky-500 hover:bg-sky-100 rounded-full cursor-pointer" />
           <button className="bg-blue-400 text-white px-4 py-1.5 rounded-full font-bold shadow-md hover:brightness-95 disabled:opacity-50">
             Post
